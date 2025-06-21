@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.wf.ms</groupId>
-	<artifactId>sathiya_todorest</artifactId>
+	<artifactId>todorest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sathiya_todorest</name>
+	<name>todorest</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
